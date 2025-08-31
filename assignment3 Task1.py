@@ -12,7 +12,7 @@ result = fact(value)
 print('Factorial of',value,'is :',result)
 
 
-''' Task 2'''
+
 
 
 
