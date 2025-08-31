@@ -1,6 +1,8 @@
 # Task 1
 def fact(n):
-    if n<1:
+    if n<0:
+        return "no nagative value"
+    elif n<2:
         return 1
     else:
         return n*fact(n-1)
